@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+      - my-photo-wbg.jpg
+
+website:
+  title: "Victoria Oluwabukola Akeju — MBA Portfolio"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Resume/CV"
+        href: resume.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Skills"
+        href: skills.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    left: "© {2025} Victoria Oluwabukola Akeju"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: 
+     light: cosmo
+     dark: cyborg
+    toc: true
+    toc-title: "Portfolio Overview"
+    toc-depth: 2
+    page-layout: full
+    css: styles.css
+    code-fold: true

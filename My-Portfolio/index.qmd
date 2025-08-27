@@ -1,0 +1,42 @@
+---
+title: ""   # hides the default "Home" heading
+---
+
+<div class="hero">
+  <img src="my-photo-wbg.jpg" alt="Portrait of Victoria Akeju" class="headshot">
+  <h1>Victoria Oluwabukola Akeju</h1>
+  <p class="lede">
+    MBA candidate at University Canada West with a background in <strong>Demography & Social Statistics</strong>.
+    Passionate about <strong>AI in business</strong>, <strong>project management</strong>, and <strong>ethical leadership</strong>.
+  </p>
+  <p class="cta">
+    <a class="btn" href="resume.qmd">Resume/CV</a>
+    <a class="btn" href="projects.qmd">Projects</a>
+    <a class="btn" href="contact.qmd">Contact</a>
+  </p>
+</div>
+
+::: {.callout-note title="💡 Vision"}
+To lead innovative, data-driven solutions that transform businesses and communities.
+:::
+
+## Highlights
+
+<div class="cards">
+
+<div class="card card--taxlink">
+<h3>Digital Transformation (TaxLink)</h3>
+<p>Change plan, ADKAR vs Kotter, CRM, paperless workflow</p>
+</div>
+
+<div class="card card--ops">
+<h3>Operations Analytics</h3>
+<p>Forecasting, LP, CVP with Solver models and dashboards</p>
+</div>
+
+<div class="card card--llm">
+<h3>LLM vs Human Study</h3>
+<p>Marketing report with evaluator heatmaps and trend lines</p>
+</div>
+
+</div>

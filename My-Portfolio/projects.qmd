@@ -1,0 +1,48 @@
+---
+title: "Projects & Case Studies"
+pandoc:
+  from: markdown+raw_html
+---
+
+## Featured Projects
+
+<div class="cards">
+
+<div class="card card--taxlink">
+<h3>Digital Transformation (TaxLink)</h3>
+<ul>
+  <li><strong>Role:</strong> Consultant</li>
+  <li><strong>Focus:</strong> ADKAR vs Kotter, cost–benefit (incl. intangibles), CRM, paperless workflow</li>
+  <li><strong>Artifacts:</strong> Executive video, Word plan, process maps</li>
+  <li><strong>Outcome:</strong> Roadmap to e-filing, portal adoption, and analytics readiness</li>
+</ul>
+</div>
+
+<div class="card card--ops">
+<h3>Operations Management Analyses</h3>
+<ul>
+  <li><strong>Methods:</strong> Forecasting, Linear Programming, Cost–Volume–Profit</li>
+  <li><strong>Artifacts:</strong> Excel models, dashboards, Solver outputs</li>
+  <li><strong>Outcome:</strong> Insights into pricing, capacity, and break-even decisions</li>
+</ul>
+</div>
+
+<div class="card card--llm">
+<h3>Netflix Ad-Supported Tier Campaign</h3>
+<ul>
+  <li><strong>Study:</strong> LLM-generated vs human-refined outline (Quarto report)</li>
+  <li><strong>Data:</strong> Evaluator heatmaps, trend lines</li>
+  <li><strong>Outcome:</strong> Human-in-the-loop improved clarity & accuracy</li>
+</ul>
+</div>
+
+<div class="card card--csr">
+<h3>CSR Case — Eco Meal Kit (Calgary)</h3>
+<ul>
+  <li><strong>Issue:</strong> Food waste & eco-friendly packaging</li>
+  <li><strong>Deliverables:</strong> APA 7th report with references</li>
+  <li><strong>Outcome:</strong> Circular-economy insights + stakeholder KPIs</li>
+</ul>
+</div>
+
+</div>

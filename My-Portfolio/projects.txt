@@ -1,0 +1,11 @@
+---
+title: "Projects & Case Studies"
+---
+
+Add brief cards/sections here for:
+- Digital Transformation plan/video for a small accounting firm (TaxLink)
+- Operations Management analyses (forecasting, LP, CVP)
+- Netflix Ad-Supported Tier campaign (LLM vs human study)
+- CSR case (eco-packaging meal kit in Calgary)
+
+Tip: Include bullet points for methods, artifacts (reports, Excel, slides), and outcomes.

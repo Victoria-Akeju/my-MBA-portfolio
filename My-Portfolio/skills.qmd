@@ -1,0 +1,116 @@
+---
+title: "Skills & Certifications"
+pandoc:
+  from: markdown+raw_html
+---
+
+## Core Skills
+
+<div class="cards">
+
+<div class="card card--pm">
+<h3>Project Management</h3>
+<ul>
+  <li>WBS, Gantt, milestones</li>
+  <li>Risk registers & RPN</li>
+  <li>Earned Value (CV, SV, CPI/SPI)</li>
+  <li>Change management (ADKAR, Kotter)</li>
+</ul>
+</div>
+
+<div class="card card--ops">
+<h3>Analytics & Operations</h3>
+<ul>
+  <li>Forecasting, Linear Programming, CVP</li>
+  <li>Solver, scenario analysis</li>
+  <li>Dashboards & data cleaning</li>
+  <li>Basic SQL & data wrangling</li>
+</ul>
+</div>
+
+<div class="card card--mkt">
+<h3>Marketing & Strategy</h3>
+<ul>
+  <li>STP, personas, positioning</li>
+  <li>A/B testing & experiments</li>
+  <li>Campaign planning & reporting</li>
+  <li>CSR & sustainability analysis</li>
+</ul>
+</div>
+
+<div class="card card--lead">
+<h3>Communication & Leadership</h3>
+<ul>
+  <li>Executive briefs & presentations</li>
+  <li>Stakeholder engagement</li>
+  <li>Team facilitation & retros</li>
+  <li>Ethics & decision frameworks</li>
+</ul>
+</div>
+
+</div>
+
+---
+
+## Tools
+
+<div class="cards">
+<div class="card card--tools-viz">
+<h3>Spreadsheet & Viz</h3>
+  <span class="tag">Excel (advanced)</span>
+  <span class="tag">Pivot tables</span>
+  <span class="tag">Charts/Heatmaps</span>
+  <span class="tag">Tableau</span>
+</div>
+
+<div class="card card--tools-dev">
+<h3>Docs & Dev</h3>
+  <span class="tag">Quarto/Markdown</span>
+  <span class="tag">VS Code</span>
+  <span class="tag">GitHub Pages</span>
+  <span class="tag">Google/Microsoft Forms</span>
+</div>
+
+<div class="card card--tools-ai">
+<h3>AI & Evaluation</h3>
+  <span class="tag">Prompt design</span>
+  <span class="tag">Human-in-the-loop</span>
+  <span class="tag">LLM comparison</span>
+  <span class="tag">Rubrics & scoring</span>
+</div>
+</div>
+
+---
+
+## Certifications
+
+<div class="cards">
+<div class="card card--cert-safety">
+<h3>Food & Safety</h3>
+<ul>
+  <li>FoodSafe Level 1</li>
+  <li>WHMIS (AixSafety.com)</li>
+  <li>Standard First Aid & CPR</li>
+</ul>
+</div>
+
+<div class="card card--cert-privacy">
+<h3>Privacy & Compliance</h3>
+<ul>
+  <li>CLBC Privacy & Information Mgmt</li>
+  <li>FOIPPA (BC)</li>
+</ul>
+</div>
+
+<div class="card card--cert-biz">
+<h3>Business & Finance</h3>
+<ul>
+  <li>Financial Accounting Certification</li>
+</ul>
+</div>
+</div>
+
+## Strength Highlights
+- **Customer-Centric Leadership**: Delivered service excellence in retail operations by aligning strategies with client needs and improving customer satisfaction.
+- **Evidence-Based Decision Making**: Applied data-driven analysis to support transparent business recommendations and reduce risk.
+- **Strategic Communication**: Translated complex insights into clear, visual storytelling through dashboards, executive briefs, and stakeholder reports.
